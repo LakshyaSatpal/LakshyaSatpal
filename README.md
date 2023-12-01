@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lakshya</h1>
-<h3 align="center">Solving problems that GPT can't | Pre-final Year @iitkgp | incoming intern @oracle</h3>
+<h3 align="center">IIT Kharagpur Pre-final Year | Upcoming Oracle Intern 🌐</h3>
 
 - 🔭 I’m currently working on [Slack Clone](https://github.com/LakshyaSatpal/slack-clone)
 
