@@ -7,7 +7,7 @@
 
 - 👨‍💻 Check my portfolio at [https://lakshya-portfolio-q1ys.vercel.app/](https://lakshya-portfolio-q1ys.vercel.app/)
 
-- 💬 Ask me about **React, Next.js**
+- 💬 Ask me about **React, Next.js, Data Structures, Algorithms**
 
 - 📫 How to reach me **lakshyasatpal372@gmail.com**
 
