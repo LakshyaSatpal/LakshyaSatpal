@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Golang, GraphQL**
 
-- 👨‍💻 All of my projects are available at [https://lakshya-portfolio-q1ys.vercel.app/](https://lakshya-portfolio-q1ys.vercel.app/)
+- 👨‍💻 Check my portfolio at [https://lakshya-portfolio-q1ys.vercel.app/](https://lakshya-portfolio-q1ys.vercel.app/)
 
 - 💬 Ask me about **React, Next.js**
 
