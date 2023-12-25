@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on [Slack Clone](https://github.com/LakshyaSatpal/slack-clone)
 
-- 🌱 I’m currently learning **GraphQL, and Sockets**
-
-- 👨‍💻 Check my portfolio at [https://lakshya-portfolio-q1ys.vercel.app/](https://lakshya-portfolio-q1ys.vercel.app/)
+- 👨‍💻 Check my portfolio at [lakshyasatpal.xyz](https://lakshyasatpal.xyz/)
 
 - 💬 Ask me about **React, Next.js, Data Structures, Algorithms**
 
