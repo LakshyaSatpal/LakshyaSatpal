@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lakshya</h1>
 <h3 align="center"> Pre-final Year Student at IIT Kharagpur 👨‍🎓 </h3>
 
-- 🔭 I’m currently working on [Slack Clone](https://github.com/LakshyaSatpal/slack-clone)
-
 - 👨‍💻 Check my portfolio at [lakshyasatpal.xyz](https://lakshyasatpal.xyz/)
 
-- 💬 Ask me about **React, Next.js, Data Structures, Algorithms**
+- 🔭 I’m currently learning **Golang** and **gRPC**.
+
+- 💬 Ask me about **React, Next.js, Node.js, Data Structures and Algorithms**
 
 - 📫 How to reach me **lakshyasatpal372@gmail.com**
 
